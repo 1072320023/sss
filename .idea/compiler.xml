@@ -9,5 +9,8 @@
         <module name="sss" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sss" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
